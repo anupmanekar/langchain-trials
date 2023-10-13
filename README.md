@@ -1,0 +1,3 @@
+# langchain-trials
+Repo to try out langchain
+Will contains - learnings, pocs and road bumps...
